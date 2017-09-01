@@ -1,4 +1,4 @@
-## Setup PrimeNG project with Webpack Test4
+## Setup PrimeNG project with Webpack Test5
 
 ### Prerequisites
 
